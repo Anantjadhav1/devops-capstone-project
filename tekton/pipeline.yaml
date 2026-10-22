@@ -1,0 +1,7 @@
+apiVersion: tekton.dev/v1
+kind: Pipeline
+metadata:
+  name: accounts-ci-cd
+spec:
+  description: Starter pipeline scaffold; configure tasks and credentials for your cluster.
+  tasks: []
